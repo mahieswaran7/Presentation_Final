@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eswaran.a\\Desktop\\TodayPres\\RB_PRO_MAST\\Final-Pres\\ProjectDemo1-BackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eswaran.a\\Desktop\\TodayPres\\RB_PRO_MAST\\Final-Pres\\ProjectDemo1-BackEnd\\ProjectDemo1\\Migrations\\20240918032346_PRESEFIN.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectDemo1\\Migrations\\20240918032346_PRESEFIN.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B095CF-6252-4FB7-BB21-E468C3C0B20C}|ProjectDemo1\\ProjectDemo1.csproj|c:\\users\\eswaran.a\\desktop\\todaypres\\rb_pro_mast\\final-pres\\projectdemo1-backend\\projectdemo1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{91B095CF-6252-4FB7-BB21-E468C3C0B20C}|ProjectDemo1\\ProjectDemo1.csproj|solutionrelative:projectdemo1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B095CF-6252-4FB7-BB21-E468C3C0B20C}|ProjectDemo1\\ProjectDemo1.csproj|c:\\users\\eswaran.a\\desktop\\todaypres\\rb_pro_mast\\final-pres\\projectdemo1-backend\\projectdemo1\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B095CF-6252-4FB7-BB21-E468C3C0B20C}|ProjectDemo1\\ProjectDemo1.csproj|solutionrelative:projectdemo1\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B095CF-6252-4FB7-BB21-E468C3C0B20C}|ProjectDemo1\\ProjectDemo1.csproj|c:\\users\\eswaran.a\\desktop\\todaypres\\rb_pro_mast\\final-pres\\projectdemo1-backend\\projectdemo1\\models\\roomdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B095CF-6252-4FB7-BB21-E468C3C0B20C}|ProjectDemo1\\ProjectDemo1.csproj|solutionrelative:projectdemo1\\models\\roomdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B095CF-6252-4FB7-BB21-E468C3C0B20C}|ProjectDemo1\\ProjectDemo1.csproj|c:\\users\\eswaran.a\\desktop\\todaypres\\rb_pro_mast\\final-pres\\projectdemo1-backend\\projectdemo1\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B095CF-6252-4FB7-BB21-E468C3C0B20C}|ProjectDemo1\\ProjectDemo1.csproj|solutionrelative:projectdemo1\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/DIRECTED/True/SqlTable/dbo.Rooms.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/DIRECTED/True/SqlTable/dbo.roomDetails.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240918032346_PRESEFIN.cs",
+              "DocumentMoniker": "C:\\Users\\eswaran.a\\Desktop\\TodayPres\\RB_PRO_MAST\\Final-Pres\\ProjectDemo1-BackEnd\\ProjectDemo1\\Migrations\\20240918032346_PRESEFIN.cs",
+              "RelativeDocumentMoniker": "ProjectDemo1\\Migrations\\20240918032346_PRESEFIN.cs",
+              "ToolTip": "C:\\Users\\eswaran.a\\Desktop\\TodayPres\\RB_PRO_MAST\\Final-Pres\\ProjectDemo1-BackEnd\\ProjectDemo1\\Migrations\\20240918032346_PRESEFIN.cs",
+              "RelativeToolTip": "ProjectDemo1\\Migrations\\20240918032346_PRESEFIN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:23:48.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\eswaran.a\\Desktop\\TodayPres\\RB_PRO_MAST\\Final-Pres\\ProjectDemo1-BackEnd\\ProjectDemo1\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjectDemo1\\appsettings.json",
+              "ToolTip": "C:\\Users\\eswaran.a\\Desktop\\TodayPres\\RB_PRO_MAST\\Final-Pres\\ProjectDemo1-BackEnd\\ProjectDemo1\\appsettings.json",
+              "RelativeToolTip": "ProjectDemo1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-18T03:13:42.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\eswaran.a\\Desktop\\TodayPres\\RB_PRO_MAST\\Final-Pres\\ProjectDemo1-BackEnd\\ProjectDemo1\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "ProjectDemo1\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\eswaran.a\\Desktop\\TodayPres\\RB_PRO_MAST\\Final-Pres\\ProjectDemo1-BackEnd\\ProjectDemo1\\Models\\Room.cs",
+              "RelativeToolTip": "ProjectDemo1\\Models\\Room.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T23:36:55.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoomDetails.cs",
+              "DocumentMoniker": "C:\\Users\\eswaran.a\\Desktop\\TodayPres\\RB_PRO_MAST\\Final-Pres\\ProjectDemo1-BackEnd\\ProjectDemo1\\Models\\RoomDetails.cs",
+              "RelativeDocumentMoniker": "ProjectDemo1\\Models\\RoomDetails.cs",
+              "ToolTip": "C:\\Users\\eswaran.a\\Desktop\\TodayPres\\RB_PRO_MAST\\Final-Pres\\ProjectDemo1-BackEnd\\ProjectDemo1\\Models\\RoomDetails.cs",
+              "RelativeToolTip": "ProjectDemo1\\Models\\RoomDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T23:36:51.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.Rooms.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/DIRECTED/True/SqlTable/dbo.Rooms.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/DIRECTED/True/SqlTable/dbo.Rooms.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-17T23:33:24.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.roomDetails.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/DIRECTED/True/SqlTable/dbo.roomDetails.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/DIRECTED/True/SqlTable/dbo.roomDetails.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-17T23:33:19.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "C:\\Users\\eswaran.a\\Desktop\\TodayPres\\RB_PRO_MAST\\Final-Pres\\ProjectDemo1-BackEnd\\ProjectDemo1\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "ProjectDemo1\\Controllers\\RoomController.cs",
+              "ToolTip": "C:\\Users\\eswaran.a\\Desktop\\TodayPres\\RB_PRO_MAST\\Final-Pres\\ProjectDemo1-BackEnd\\ProjectDemo1\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "ProjectDemo1\\Controllers\\RoomController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAADwvywAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T23:16:57.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
