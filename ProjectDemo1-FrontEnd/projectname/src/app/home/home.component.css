@@ -1,10 +1,11 @@
+/* Home Component Styles */
 .home-section {
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 20px;
-  padding-top: 130px;  /* Space between header and video */
-  background: transparent;
+  padding-top: 130px; /* Space between header and video */
+  background: #001f3f;
   height: 100vh; /* Full viewport height */
   box-sizing: border-box; /* Include padding in height calculation */
   position: relative;
@@ -28,14 +29,37 @@
 }
 
 /* Responsive styles */
+
+/* Tablet devices */
+@media (max-width: 1024px) {
+  .home-section {
+    padding-top: 100px; /* Reduce padding on smaller devices */
+  }
+}
+
 @media (max-width: 768px) {
   .video-container {
     max-width: 90%; /* Slightly smaller width on tablets */
   }
+
+  .home-section {
+    padding-top: 80px; /* Adjust space between header and video */
+  }
 }
 
+/* Mobile devices */
 @media (max-width: 576px) {
   .video-container {
     max-width: 100%; /* Full width on mobile devices */
+    border-radius: 10px; /* Smaller border radius for mobile */
+  }
+
+  .home-section {
+    padding-top: 60px; /* Reduce padding on mobile */
+    height: auto; /* Remove full viewport height for better scrolling on mobile */
+  }
+
+  .room-video {
+    border-radius: 10px; /* Match smaller border radius */
   }
 }
